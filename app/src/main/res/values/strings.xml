@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RxChainRetrier</string>
+    <string name="user_loaded_count">Users loaded: %d</string>
+    <string name="album_loaded_count">Albums loaded: %d</string>
+</resources>
